@@ -12,7 +12,7 @@ public class ApiClient : MonoBehaviour
     public Text Poligonos;
     public Text Tamanho;
 
-    const string baseUrl = "http://localhost:52672//API";
+    const string baseUrl = "http://localhost:52672/API";
 
     // Use this for initialization
     void Start()
